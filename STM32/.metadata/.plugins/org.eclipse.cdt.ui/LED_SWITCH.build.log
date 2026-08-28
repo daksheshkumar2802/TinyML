@@ -1,0 +1,10 @@
+10:58:06 **** Incremental Build of configuration Debug for project LED_SWITCH ****
+make -j4 all 
+arm-none-eabi-size  LED_SWITCH.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6832	     12	   1572	   8416	   20e0	LED_SWITCH.elf
+Finished building: default.size.stdout
+ 
+
+10:58:07 Build Finished. 0 errors, 0 warnings. (took 257ms)
+

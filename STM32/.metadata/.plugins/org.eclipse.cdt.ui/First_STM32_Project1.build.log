@@ -1,0 +1,10 @@
+10:37:24 **** Incremental Build of configuration Debug for project First_STM32_Project1 ****
+make -j4 all 
+arm-none-eabi-size  First_STM32_Project1.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6740	     12	   1572	   8324	   2084	First_STM32_Project1.elf
+Finished building: default.size.stdout
+ 
+
+10:37:25 Build Finished. 0 errors, 0 warnings. (took 541ms)
+
